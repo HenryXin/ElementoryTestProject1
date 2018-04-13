@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello Again
+GenericName=Hello World App
+Comment=Proves we can use Vala and Gtk
+Categroies=Utility;Education
+Exec=com.github.HenryXin.ElementoryTestProject1
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=hello-again
+Keywords=Hello;World;Example;
